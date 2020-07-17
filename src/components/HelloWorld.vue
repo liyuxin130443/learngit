@@ -9,7 +9,6 @@
       <el-table-column prop="address" label="啦啦啦"></el-table-column>
       <el-table-column prop="address" label="啦啦啦"></el-table-column>
     </el-table>
-    </el-table>
   </div>
 </template>
 
