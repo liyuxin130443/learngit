@@ -10,25 +10,26 @@
       <el-table-column prop="address" label="啦啦啦"></el-table-column>
       <el-table-column prop="address" label="啦啦啦"></el-table-column>
       <el-table-column prop="address" label="啦啦啦"></el-table-column>
+      <el-table-column prop="address" label="啦啦啦"></el-table-column>
     </el-table>
   </div>
 </template>
 
 <script>
 export default {
-  name: "HelloWorld",
-  data() {
+  name: 'HelloWorld',
+  data () {
     return {
       tableData: [
         {
-          date: "2016-05-02",
-          name: "阿馨",
-          address: "北京"
+          date: '2016-05-02',
+          name: '阿馨',
+          address: '北京'
         }
       ]
-    };
+    }
   }
-};
+}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
