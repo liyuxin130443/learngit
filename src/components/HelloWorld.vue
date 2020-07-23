@@ -34,6 +34,10 @@ export default {
         date: '2016-05-02',
         name: '阿馨馨',
         address: '重庆'
+      }, {
+        date: '2016-05-02',
+        name: '阿馨馨',
+        address: '重庆'
       }]
     }
   }
