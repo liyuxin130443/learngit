@@ -1,0 +1,3 @@
+[submodule "src/commit-test"]
+	path = src/commit-test
+	url = https://github.com/liyuxin130443/commit-test.git
